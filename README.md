@@ -1,6 +1,6 @@
 # 🚀 Olá, sou a Ana Giulia!
 
-Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
+Meu nome é Ana Giulia, tenho 16 anos e atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
 
 ## 🛠️ O que Estou Aprendendo
 
